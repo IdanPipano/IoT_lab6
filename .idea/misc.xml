@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pipan/AppData/Local/Android/Sdk/platforms/android-29/data/res/layout/simple_spinner_item.xml" value="0.10989583333333333" />
+        <entry key="..\:/semester4/IOT/Tutorial 6/IoT_lab6/app/src/main/res/layout/activity_main.xml" value="0.16077898550724637" />
+        <entry key="..\:/semester4/IOT/Tutorial 6/IoT_lab6/app/src/main/res/layout/device_list_header.xml" value="0.15534420289855072" />
+        <entry key="..\:/semester4/IOT/Tutorial 6/IoT_lab6/app/src/main/res/layout/device_list_item.xml" value="0.15534420289855072" />
+        <entry key="..\:/semester4/IOT/Tutorial 6/IoT_lab6/app/src/main/res/layout/fragment_terminal.xml" value="0.264" />
         <entry key="..\:/semester4/IOT/Tutorial 6/Tutorial6/app/src/main/res/layout/activity_main.xml" value="0.75" />
       </map>
     </option>
